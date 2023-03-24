@@ -4,6 +4,7 @@
   "description": "Captura dados de concursos de TI do site do Gran Cursos",
   "main": "src/index.js",
   "scripts": {
+    "start": "node src/index.js",
     "test": "jest --watch"
   },
   "repository": {
@@ -30,3 +31,4 @@
     "cheerio": "^1.0.0-rc.12"
   }
 }
+
