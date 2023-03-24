@@ -1,0 +1,28 @@
+{
+  "name": "bot-concursos-ti",
+  "version": "1.0.0",
+  "description": "Captura dados de concursos de TI do site do Gran Cursos",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kllbd/bot-concursos-ti.git"
+  },
+  "keywords": [
+    "concurso",
+    "ti",
+    "bot",
+    "web",
+    "crawler",
+    "gran",
+    "cursos"
+  ],
+  "author": "kalleb.dev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kllbd/bot-concursos-ti/issues"
+  },
+  "homepage": "https://github.com/kllbd/bot-concursos-ti#readme"
+}
